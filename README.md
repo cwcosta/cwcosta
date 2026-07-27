@@ -8,7 +8,7 @@
 
 ###
 
-<p data-importer="text" align="center">joão pedro costa<br>computer engineering student @ UnB<br>langs: c, c++, java & javascript</p>
+<p data-importer="text" align="center">joão pedro costa<br>computer engineering student @ UnB<br>langs: c, c++, java, python & learning javascript</p>
 
 ###
 
